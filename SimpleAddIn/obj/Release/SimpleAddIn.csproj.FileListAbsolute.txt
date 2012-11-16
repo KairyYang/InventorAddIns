@@ -1,0 +1,4 @@
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\bin\Release\SimpleAddIn.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\obj\Release\SimpleAddIn.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\obj\Release\SimpleAddIn.csproj.ResolveComReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\obj\Release\SimpleAddIn.dll

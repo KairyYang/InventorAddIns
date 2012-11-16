@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\obj\Debug\SimpleAddIn.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\bin\Debug\SimpleAddIn.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\bin\Debug\SimpleAddIn.pdb
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\obj\Debug\SimpleAddIn.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\obj\Debug\SimpleAddIn.pdb
+C:\Projects\SimpleAddIn\bin\Debug\SimpleAddIn.dll
+C:\Projects\SimpleAddIn\bin\Debug\SimpleAddIn.pdb
+C:\Projects\SimpleAddIn\bin\Debug\SimpleAddIn.tlb
+C:\Projects\SimpleAddIn\obj\Debug\SimpleAddIn.csprojResolveAssemblyReference.cache
+C:\Projects\SimpleAddIn\obj\Debug\SimpleAddIn.dll
+C:\Projects\SimpleAddIn\obj\Debug\SimpleAddIn.pdb
