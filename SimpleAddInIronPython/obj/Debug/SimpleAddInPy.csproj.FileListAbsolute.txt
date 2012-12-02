@@ -1,0 +1,1 @@
+C:\Projects\InventorAPI\InventorAddIns\SimpleAddInIronPython\obj\Debug\SimpleAddInPy.csprojResolveAssemblyReference.cache

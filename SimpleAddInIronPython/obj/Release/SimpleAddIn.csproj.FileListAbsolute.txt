@@ -1,0 +1,8 @@
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\bin\Release\SimpleAddIn.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\obj\Release\SimpleAddIn.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\obj\Release\SimpleAddIn.csproj.ResolveComReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2013\SDK\DeveloperTools\Samples\VCSharp.NET\AddIns\SimpleAddIn\obj\Release\SimpleAddIn.dll
+C:\Projects\InventorAPI\InventorAddIns\SimpleAddInIronPython\bin\Release\SimpleAddIn.dll
+C:\Projects\InventorAPI\InventorAddIns\SimpleAddInIronPython\bin\Release\SimpleAddIn.tlb
+C:\Projects\InventorAPI\InventorAddIns\SimpleAddInIronPython\obj\Release\SimpleAddIn.csprojResolveAssemblyReference.cache
+C:\Projects\InventorAPI\InventorAddIns\SimpleAddInIronPython\obj\Release\SimpleAddIn.dll
