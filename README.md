@@ -7,7 +7,25 @@ Inventor 2013 targets .NET 4.0, and as a result of not updating SDK sample code,
 examples will not compile.  Two common issues you may run into in your addin code are 
 addressed in the SimpleAddIn.  
 
+SimpleAddInIronPython
+==============
+###Embedding a python engine:
+This version of the addin is the same as the original "SimpleAddIn" with changes made to the "DrawSlotButton"
+C# class, the addition of an additional class "Engine", and an additional python file that contains the logic 
+that was previously contained in the "DrawSlotButton" class.  
 
+You will need to have IronPython installed for this to work.  You may need to adjust the references depending
+on the IronPython install directory.  
+
+In general, the case for doing this is to speed up the development cycle.  It is a big pain to start and restart
+Inventor over and over.  The approach is that the UI integration is handled in C#, and that the main program logic
+is factored out into the python component.  In this example the C# parts and the python parts are not very losely
+coupled.  It is a good idea to seperate these two aspects as much as possible.  Because the python code is being 
+compiled at runtime, it is possible to execute the add-in, make a change to the python code, and then run the add-in
+again without the need to shut down Inventor or compile again.
+
+SimpleAddIn
+==============
 ###Post-build events:
 The first has to do with the post-build events command line.  The project as-is already
 has this corrected, I'm pointing this out because it is not obvious (to me at least).
@@ -34,6 +52,7 @@ The author then proceeds to show a 75 line VB.NET class to fix this problem, and
 closes coments on the post (nice).  A C# example of how to fix the problem would have been helpful.  
 
 I commented out the old lines, so you should be able to compare.  There is an additional C# class that
-makes this works that is adapted from the VB example.  I think it should not be a requirement of someone
+makes this work that is adapted from the VB example.  I think it should not be a requirement of someone
 developing using Inventor's API to write 90 lines of code to have icons on buttons.  In future versions it 
 would be nice if some of the boiler plate work required to make an add-in could be abstracted more.  
+
