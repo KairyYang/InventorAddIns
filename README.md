@@ -48,9 +48,6 @@ works, but I always thought there should be a better way to create the image for
 interface. Also in a future release of Inventor there is a good chance that it will support 
 .NET framework 4 and warning messages occur using IconToPicture(). (Inventor 2012 uses .NET 3.5)."
 
-The author then proceeds to show a 75 line VB.NET class to fix this problem, and after one comment,
-closes coments on the post (nice).  A C# example of how to fix the problem would have been helpful.  
-
 I commented out the old lines, so you should be able to compare.  There is an additional C# class that
 makes this work that is adapted from the VB example.  I think it should not be a requirement of someone
 developing using Inventor's API to write 90 lines of code to have icons on buttons.  In future versions it 
